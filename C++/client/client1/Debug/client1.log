@@ -1,0 +1,4 @@
+﻿  client.cpp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  client1.vcxproj -> E:\work\workspace\client1\Debug\client1.exe
+  client1.vcxproj -> E:\work\workspace\client1\Debug\client1.pdb (Partial PDB)
